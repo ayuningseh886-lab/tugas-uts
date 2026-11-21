@@ -1,0 +1,15 @@
+<class '__main__.Kampus'>
+<class '__main__.Kampus'>
+<class '__main__.Mahasiswa'>
+<class '__main__.Mahasiswa'>
+111111
+Citra
+111112
+Dimas
+Universitas Contoh
+Jakarta
+0
+
+Sistem Informasi
+Halo, nama saya Citra, jurusan Sistem Informasi
+Halo Dimas, nama saya Citra
